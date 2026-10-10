@@ -35,7 +35,7 @@ API_KEY = getenv("API_KEY", "ShrutiBotsOwabDnkvuR0UD9YX2zv8") # Get This API KEY
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/hbbb02219-hue/Rishant-papa-ji-",
+    "https://github.com/saniya-bot-creator/Music-sp",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
